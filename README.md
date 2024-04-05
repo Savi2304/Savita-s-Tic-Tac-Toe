@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Tic Tac Toe Game</h1>
   <h3 align="center">
-   https://devrishi-dutta.github.io/Impossible-TicTacToe/
+   https://savita-kumari.github.io/Impossible-TicTacToe/
   </h3>
 </div>
 
