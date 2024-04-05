@@ -1,13 +1,10 @@
 <div align="center">
-<h1 align="center">Tic Tac Toe Game</h1>
+<h1 align="center"> Savita's Tic Tac Toe Game</h1>
   <h3 align="center">
   
   </h3>
 </div>
 
-
-<img width="918" alt="Screenshot 2023-08-07 115138" src="https://github.com/Devrishi-Dutta/Impossible-TicTacToe/assets/97834009/371c7c20-f295-432c-bc00-269772e22756">
-<img width="917" alt="Screenshot 2023-08-07 115206" src="https://github.com/Devrishi-Dutta/Impossible-TicTacToe/assets/97834009/9f93cd34-b000-44db-ba12-3620c9624d9f">
 
 
 
